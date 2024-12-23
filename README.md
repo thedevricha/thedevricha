@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I’m a web developer from India who loves turning ideas into stunning, interactive websites. I’m all about creating websites that not only look great but also work seamlessly.<br>- 🔭 I’m working as Web Developer.<br>- 📚 I'm currently learning Vue.js.<br>- ⚡ In my free time, I love to doodle, and color. Sometimes, I just chill and do nothing, which is super relaxing. I also love exploring nature and trying new foods. But most of all, I'm always excited to learn new tech stuff and build cool projects!</p>
+<p align="left">I’m a web developer from India who loves turning ideas into stunning, interactive websites. I’m all about creating websites that not only look great but also work seamlessly.<br>- 🔭 I’m working as Web Developer.<br>- 📚 I'm currently developing a project using laravel.<br>- ⚡ In my free time, I love to doodle, and color. Sometimes, I just chill and do nothing, which is super relaxing. I also love exploring nature and trying new foods. But most of all, I'm always excited to learn new tech stuff and build cool projects!</p>
 
 ###
 
